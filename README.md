@@ -18,7 +18,7 @@ Technologies Used :
 - Lombok SLF4J for logging 
 - Docker to containerize the application.
 
-I've attached a few screenshots in "Images" folder in this repository for reference
+I've attached a few screenshots in "images" folder in this repository for reference
 ## EntityRelation Diagram
 
 ER Diagram shows all the models we used and how they are mapped into the database. 
